@@ -1,4 +1,4 @@
-# Battery Pack & Module Manufacturing Execution System (CellMES)
+# Battery Assembly System Execution (BASE)
 
 CellMES is an industrial-grade Manufacturing Execution System engineered for electric vehicle battery pack and module assembly lines. The platform delivers real-time production scheduling, multi-level component genealogy, quality station verification, automated non-conformance handling, and operational reporting across the shop floor.
 
