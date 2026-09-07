@@ -1,12 +1,12 @@
 # Battery Assembly System Execution (BASE)
 
-CellMES is an industrial-grade Manufacturing Execution System engineered for electric vehicle battery pack and module assembly lines. The platform delivers real-time production scheduling, multi-level component genealogy, quality station verification, automated non-conformance handling, and operational reporting across the shop floor.
+BASE is an industrial-grade Manufacturing Execution System engineered for electric vehicle battery pack and module assembly lines. The platform delivers real-time production scheduling, multi-level component genealogy, quality station verification, automated non-conformance handling, and operational reporting across the shop floor.
 
 ---
 
 ## System Purpose & Objectives
 
-The primary objective of CellMES is to eliminate manual tracking and enforce strict digital traceability throughout the battery manufacturing lifecycle. It guarantees that every battery pack leaving the plant has an immutable digital birth certificate linking its enclosure serial number to its internal battery management system, left-hand module, and right-hand module, alongside validated test records from every intermediate quality gate.
+The primary objective of BASE is to eliminate manual tracking and enforce strict digital traceability throughout the battery manufacturing lifecycle. It guarantees that every battery pack leaving the plant has an immutable digital birth certificate linking its enclosure serial number to its internal battery management system, left-hand module, and right-hand module, alongside validated test records from every intermediate quality gate.
 
 ---
 
